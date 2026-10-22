@@ -20,7 +20,7 @@ A Python-based Library Management System built using Streamlit.
 
 ## Live Demo
 
-Add your deployed Streamlit app URL here.
+https://library-management-system-app-hw6tchliz8vzxjgycjdtal.streamlit.app/
 
 ## Installation
 
