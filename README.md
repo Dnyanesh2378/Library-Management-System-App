@@ -36,7 +36,7 @@ https://library-management-system-app-hw6tchliz8vzxjgycjdtal.streamlit.app/
 
 4. Run the application:
 
-   streamlit run app.py
+   streamlit run library_app.py
 
 ## Security
 
