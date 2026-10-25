@@ -1,6 +1,4 @@
 streamlit
-sqlalchemy
-# PostgreSQL driver
+SQLAlchemy
 psycopg2-binary
-psycopg
 pandas
